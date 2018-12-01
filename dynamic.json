@@ -1,0 +1,43 @@
+{
+  "career":{
+    "info":" To work in an enviroment where can I utilize my skills and knowledge and also I want to improve my skills and knowledge."
+},
+"education":[
+  {
+    "degree":"B.Tech(IT)",
+    "Institution":"Vignan Nirula Institute",
+    "yop":"2020",
+    "Percentage":"85"
+  },
+  {
+    "degree":"Intermediate(MPC)",
+    "Institution":"Vignan Vidhyalayam Junior College",
+    "yop":"2016",
+    "Percentage":"87"
+  },
+  {
+    "degree":"S.S.C",
+    "Institution":"Sri Sita Rama Public School",
+    "yop":"2014",
+     "Percentage":"8.8"
+  }
+
+],
+"skills":[
+  {
+    "title":"Platforms",
+    "content":"windows,Linux"
+  },
+  {
+    "title":"Progrmming Languages",
+    "content":"C,C++,Java,Python,HTML,CSS,JS,JSON"
+  },
+  {
+    "title":"database",
+    "content":"MySql,sql,PL/SQL"
+  }
+
+],
+"languages":"Telugu,English,Kananda"
+
+}
